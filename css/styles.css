@@ -7415,6 +7415,34 @@ form .row:first-child .floating-label-form-group {
 .btn-social {
   margin-bottom: 0.5rem; }
 
-.bg-picture{
+.bg-guitar {
   background-image: url(/assets/img/guitar.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-coffee {
+  background-image: url(/assets/img/coffee.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-weights {
+  background-image: url(/assets/img/weights.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-education {
+  background-image: url(/assets/img/education.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
