@@ -7419,7 +7419,7 @@ form .row:first-child .floating-label-form-group {
   margin-bottom: 0.5rem; }
 
 .bg-guitar {
-  background-image: url(/img/guitar.jpg);
+  background-image: url(../img/guitar.png);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -7427,7 +7427,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .bg-coffee {
-  background-image: url(/img/coffee.png);
+  background-image: url(../img/coffee.png);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
