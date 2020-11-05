@@ -7419,7 +7419,7 @@ form .row:first-child .floating-label-form-group {
   margin-bottom: 0.5rem; }
 
 .bg-guitar {
-  background-image: url(/assets/img/guitar.jpg);
+  background-image: url(/img/guitar.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -7427,7 +7427,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .bg-coffee {
-  background-image: url(/assets/img/coffee.png);
+  background-image: url(/img/coffee.png);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -7435,7 +7435,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .bg-weights {
-  background-image: url(/assets/img/weights.jpg);
+  background-image: url(/img/weights.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -7443,7 +7443,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .bg-education {
-  background-image: url(/assets/img/education.jpg);
+  background-image: url(/img/education.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
