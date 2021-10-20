@@ -7426,8 +7426,8 @@ form .row:first-child .floating-label-form-group {
   background-size: cover;
 }
 
-.bg-coffee {
-  background-image: url(../img/coffee.png);
+.bg-about_me {
+  background-image: url(../img/background_about_me.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
